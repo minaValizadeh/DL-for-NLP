@@ -1,1 +1,0 @@
-The first execrise of CS 594 (Deep learing for NLP) course
